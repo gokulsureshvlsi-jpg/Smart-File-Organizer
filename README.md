@@ -11,15 +11,15 @@ A JavaFX desktop application that automatically organizes files into categories 
 
 ### Main Application
 
-![Smart File Organizer Main UI](screenshots/main-ui.png)
+![Smart File Organizer Main UI](main-ui.png)
 
 ### File Organization
 
-![File Organization](screenshots/organize-files.png)
+![File Organization](organize-files.png)
 
 ### Duplicate Detection
 
-![Duplicate Detection](screenshots/duplicates.png)
+![Duplicate Detection](duplicates.png)
 
 ---
 
