@@ -2,6 +2,8 @@
 
 A JavaFX desktop application that automatically organizes files into categories and detects duplicate files using SHA-256 hashing.
 
+**Developed by: Gokul S**
+
 [![Download for Windows](https://img.shields.io/badge/Download-Windows%20EXE-blue?logo=windows)](../../releases/latest/download/Smart.File.Organizer-1.0.exe)
 [![Release](https://img.shields.io/badge/Release-v1.0.0-green)](../../releases/latest)
 
